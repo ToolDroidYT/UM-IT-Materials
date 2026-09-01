@@ -1,55 +1,122 @@
-| Year / Semester        | Title    | Description                                       | Exists |
-| ---------------------- | -------- | ------------------------------------------------- | ------ |
-| **1st Year / 1st Sem** | GE 4     | MATHEMATICS IN THE MODERN WORLD                   | -      |
-|                        | GE 3     | THE CONTEMPORARY WORLD                            | -      |
-|                        | GE 2     | PURPOSIVE COMMUNICATION W/ INTERACTIVE LEARNI     | -      |
-|                        | GE 15    | ENVIRONMENTAL SCIENCE                             | -      |
-|                        | CCE 101  | INTRODUCTION TO COMPUTING                         | -      |
-|                        | CCE 102  | COMPUTER PROGRAMMING 1 (2ndT)                     | -      |
-|                        | PAHF 1   | MOVEMENT COMPETENCY TRAINING                      | -      |
-|                        | NSTP 1   | NATIONAL SERVICE TRAINING PROGRAM 1               | -      |
-| **1st Year / 2nd Sem** | GE 8     | READINGS IN PHILIPPINE HISTORY                    | -      |
-|                        | UGE 1    | READING COMPREHENSION                             | -      |
-|                        | IT 1a    | IT ELECTIVE 1                                     | -      |
-|                        | CCE 103  | COMPUTER PROGRAMMING 2                            | -      |
-|                        | IT 2     | DISCRETE MATHEMATICS                              | -      |
-|                        | GE 1     | UNDERSTANDING THE SELF                            | -      |
-|                        | PAHF 2   | EXERCISE-BASED FITNESS ACTIVITIES                 | -      |
-|                        | NSTP 2   | NATIONAL SERVICE TRAINING PROGRAM 2               | -      |
-| **2nd Year / 1st Sem** | GE 7     | ART APPRECIATION                                  | -      |
-|                        | CCE 104  | INFORMATION MANAGEMENT                            | -      |
-|                        | CCE 105  | DATA STRUCTURES AND ALGORITHMS                    | -      |
-|                        | IT 3/L   | NETWORKING 1                                      | -      |
-|                        | MTH 103  | PROBABILITIES AND STATISTICS                      | -      |
-|                        | IT 4     | CALCULUS 1                                        | -      |
-|                        | IT 5     | IT ELECTIVE 2                                     | -      |
-|                        | PAHF 3   | DANCE AND SPORTS 1                                | -      |
-| **2nd Year / 2nd Sem** | IT 6     | FUNDAMENTALS OF DATABASE SYSTEMS                  | -      |
-|                        | IT 7/L   | INTRODUCTION TO HUMAN COMPUTER INTERACTION        | -      |
-|                        | IT 8     | CALCULUS 2                                        | -      |
-|                        | GE 6     | RIZAL'S LIFE AND WORKS                            | -      |
-|                        | IT 9a    | PROFESSIONAL TRACK FOR IT 3                       | -      |
-|                        | GE 5     | SCIENCE, TECHNOLOGY, AND SOCIETY                  | -      |
-|                        | PAHF 4   | DANCE AND SPORTS 2                                | -      |
-| **3rd Year / 1st Sem** | IT 11    | NETWORKING 2                                      | -      |
-|                        | IT 12    | SYSTEMS INTEGRATION & ARCHITECTURE                | -      |
-|                        | IT 13    | PROFESSIONAL TRACK FOR IT 4                       | -      |
-|                        | PHYS 101 | COLLEGE PHYSICS 1                                 | -      |
-|                        | GE 11    | THE ENTREPRENEURIAL MIND                          | -      |
-|                        | IT 10    | IT ELECTIVE 3                                     | -      |
-|                        | IT 14    | PROFESSIONAL TRACK FOR IT 5                       | -      |
-|                        | CCE 106  | APPLICATION DEVELOPMENT AND EMERGING TECHNOLOGIES | -      |
-| **3rd Year / 2nd Sem** | IT 15    | INTEGRATIVE PROGRAMMING AND TECHNOLOGIES          | -      |
-|                        | IT 16    | INFORMATION ASSURANCE AND SECURITY 1              | -      |
-|                        | UGE 2    | TECHNICAL WRITING IN THE DISCIPLINE               | -      |
-|                        | IT 18    | QUANTITATIVE METHODS                              | -      |
-|                        | PHYS 102 | COLLEGE PHYSICS 2                                 | -      |
-|                        | IT 19/L  | TECHNOPRENEURSHIP                                 | -      |
-|                        | IT 17    | SOCIAL AND PROFESSIONAL ISSUES                    | -      |
-|                        | IT 20/L  | PROFESSIONAL TRACK FOR IT 6                       | -      |
-| **3rd Year / Summer**  | GE 9     | ETHICS (DISCIPLINAL)                              | -      |
-|                        | IT 21    | INFORMATION ASSURANCE AND SECURITY 2              | -      |
-|                        | IT 22    | CAPSTONE PROJECT 1                                | -      |
-| **4th Year / 1st Sem** | GE 20    | READING VISUAL ARTS                               | -      |
-|                        | IT 23    | SYSTEMS ADMINISTRATION AND MAINTENANCE            | -      |
-|                        | IT 24    | CAPSTONE PROJECT 2                                | -      |
+# UM - BS Information Technology
+
+Learning materials collected along my university journey at the University of Mindanao,Bachelor of Science in Information Technology program.
+
+Each course folder contains lecture notes, slides, assignments, and other resources for that subject.
+
+## Repository Structure
+
+```
+.
+├── 1st-Year/
+│   ├── 1st-Sem/
+│   └── 2nd-Sem/
+├── 2nd-Year/
+│   ├── 1st-Sem/
+│   └── 2nd-Sem/
+├── 3rd-Year/
+│   ├── 1st-Sem/
+│   ├── 2nd-Sem/
+│   └── Summer/
+└── 4th-Year/
+    └── 1st-Sem/
+```
+
+## Courses
+
+### 1st Year - 1st Semester
+
+| Code   | Course                                          |
+| ------ | ----------------------------------------------- |
+| GE 4   | Mathematics in the Modern World                 |
+| GE 3   | The Contemporary World                           |
+| GE 2   | Purposive Communication                         |
+| GE 15  | Environmental Science                           |
+| CCE 101| Introduction to Computing                       |
+| CCE 102| Computer Programming 1 (2nd Term)               |
+| PAHF 1 | Movement Competency Training                    |
+| NSTP 1 | National Service Training Program 1             |
+
+### 1st Year - 2nd Semester
+
+| Code   | Course                                          |
+| ------ | ----------------------------------------------- |
+| GE 8   | Readings in Philippine History                  |
+| UGE 1  | Reading Comprehension                           |
+| IT 1a  | IT Elective 1                                   |
+| CCE 103| Computer Programming 2                          |
+| IT 2   | Discrete Mathematics                            |
+| GE 1   | Understanding the Self                          |
+| PAHF 2 | Exercise-Based Fitness Activities               |
+| NSTP 2 | National Service Training Program 2             |
+
+### 2nd Year - 1st Semester
+
+| Code   | Course                                          |
+| ------ | ----------------------------------------------- |
+| GE 7   | Art Appreciation                                |
+| CCE 104| Information Management                          |
+| CCE 105| Data Structures and Algorithms                  |
+| IT 3/L | Networking 1                                    |
+| MTH 103| Probabilities and Statistics                    |
+| IT 4   | Calculus 1                                      |
+| IT 5   | IT Elective 2                                   |
+| PAHF 3 | Dance and Sports 1                              |
+
+### 2nd Year - 2nd Semester
+
+| Code   | Course                                          |
+| ------ | ----------------------------------------------- |
+| IT 6   | Fundamentals of Database Systems                |
+| IT 7/L | Introduction to Human Computer Interaction      |
+| IT 8   | Calculus 2                                      |
+| GE 6   | Rizal's Life and Works                          |
+| IT 9a  | Professional Track for IT 3                     |
+| GE 5   | Science, Technology, and Society                |
+| PAHF 4 | Dance and Sports 2                              |
+
+### 3rd Year - 1st Semester
+
+| Code    | Course                                          |
+| ------- | ----------------------------------------------- |
+| IT 11   | Networking 2                                    |
+| IT 12   | Systems Integration & Architecture              |
+| IT 13   | Professional Track for IT 4                     |
+| PHYS 101| College Physics 1                               |
+| GE 11   | The Entrepreneurial Mind                        |
+| IT 10   | IT Elective 3                                   |
+| IT 14   | Professional Track for IT 5                     |
+| CCE 106 | Application Development and Emerging Technologies|
+
+### 3rd Year - 2nd Semester
+
+| Code    | Course                                          |
+| ------- | ----------------------------------------------- |
+| IT 15   | Integrative Programming and Technologies        |
+| IT 16   | Information Assurance and Security 1            |
+| UGE 2   | Technical Writing in the Discipline             |
+| IT 18   | Quantitative Methods                            |
+| PHYS 102| College Physics 2                               |
+| IT 19/L | Technopreneurship                               |
+| IT 17   | Social and Professional Issues                  |
+| IT 20/L | Professional Track for IT 6                     |
+
+### 3rd Year - Summer
+
+| Code   | Course                                          |
+| ------ | ----------------------------------------------- |
+| GE 9   | Ethics (Disciplinal)                            |
+| IT 21  | Information Assurance and Security 2            |
+| IT 22  | Capstone Project 1                              |
+
+### 4th Year - 1st Semester
+
+| Code   | Course                                          |
+| ------ | ----------------------------------------------- |
+| GE 20  | Reading Visual Arts                             |
+| IT 23  | Systems Administration and Maintenance          |
+| IT 24  | Capstone Project 2                              |
+
+## License
+
+This repository is for personal educational use only.
