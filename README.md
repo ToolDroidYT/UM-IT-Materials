@@ -116,6 +116,13 @@ Each course folder contains lecture notes, slides, assignments, and other resour
 | GE 20  | Reading Visual Arts                             |
 | IT 23  | Systems Administration and Maintenance          |
 | IT 24  | Capstone Project 2                              |
+| CAED 500C | Career and Personality Development           |
+
+### 4th Year - 2nd Semester
+
+| Code   | Course                                          |
+| ------ | ----------------------------------------------- |
+| IT 25  | Practicum                                       |
 
 ## License
 
