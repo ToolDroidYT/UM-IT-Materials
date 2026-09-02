@@ -2,7 +2,7 @@
 
 > As of now, this repository is a work in progress.
 
-Learning materials collected along my university journey at the University of Mindanao,Bachelor of Science in Information Technology program.
+Learning materials collected along my university journey at the University of Mindanao, Bachelor of Science in Information Technology program.
 
 Each course folder contains lecture notes, slides, assignments, and other resources for that subject.
 
@@ -128,4 +128,4 @@ Each course folder contains lecture notes, slides, assignments, and other resour
 
 ## License
 
-This repository is for personal educational use only.
+This repository is for educational use only.
