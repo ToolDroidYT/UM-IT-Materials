@@ -126,6 +126,8 @@ Each course folder contains lecture notes, slides, assignments, and other resour
 | ----- | --------- |
 | IT 25 | Practicum |
 
-## License
+## Intellectual Property
 
-This repository is for educational use only.
+The files in this repository are the intellectual property of their respective owners, including but not limited to the University of Mindanao, its faculty, and any third-party content creators. All rights reserved.
+
+This repository is intended for personal educational use only. Unauthorized reproduction, distribution, or commercial use of any content herein is strictly prohibited.
